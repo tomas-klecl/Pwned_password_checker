@@ -1,6 +1,5 @@
 import requests
 import hashlib
-import sys
 import re
 
 
